@@ -1,9 +1,9 @@
 <h1>READ ME</h1>
 
-This repository consist of the all productions developed during the case study to the MATE27 discipline.
+This repository contains the developed artifacts for the case study during the MATE27 course.
 
 ### Repository structure:
 
-1. **/artifacts** contains all the documents produced during the case study
-2. **/protocols** contains all versions of the dasda
-3. **/transcripts** contains all the interviews' transcriptsadas
+1. **/artifacts** contains the documents produced during the case study
+2. **/protocols** contains protocols
+3. **/transcripts** contains the interviews' transcripts
